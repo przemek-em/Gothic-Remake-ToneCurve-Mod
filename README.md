@@ -170,3 +170,26 @@ show LocalExposure
 If typing the command manually changes the image, then the mod did not execute the command path correctly and the UE4SS log should show why.
 
 If typing the command manually makes the image worse after the mod already ran, type it again to toggle it back.
+
+## Screenshots
+
+![Image](screenshots/1/1_OriginalFilmicAces.jpg)
+![Image](screenshots/1/2_AcesNarkowicz.jpg)
+![Image](screenshots/1/3_CurveOff.jpg)
+![Image](screenshots/1/4_UnchartedHable.jpg)
+![Image](screenshots/2/1_OriginalFilmicAces.jpg)
+![Image](screenshots/2/2_AcesNarkowicz.jpg)
+![Image](screenshots/2/3_CurveOff.jpg)
+![Image](screenshots/2/4_UnchartedHable.jpg)
+![Image](screenshots/3/1_OriginalFilmicAces.jpg)
+![Image](screenshots/3/2_AcesNarkowicz.jpg)
+![Image](screenshots/3/3_CurveOff.jpg)
+![Image](screenshots/3/4_UnchartedHable.jpg)
+![Image](screenshots/4/1_OriginalFilmicAces.jpg)
+![Image](screenshots/4/2_AcesNarkowicz.jpg)
+![Image](screenshots/4/3_CurveOff.jpg)
+![Image](screenshots/4/4_UnchartedHable.jpg)
+![Image](screenshots/5/1_OriginalFilmicAces.jpg)
+![Image](screenshots/5/2_AcesNarkowicz.jpg)
+![Image](screenshots/5/3_CurveOff.jpg)
+![Image](screenshots/5/4_UnchartedHable.jpg)
