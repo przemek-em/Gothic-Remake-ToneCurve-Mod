@@ -157,6 +157,7 @@ Successful log lines look like:
 ## Known Downside
 
 ReShade is applied to the final image, so the replacement tone mapper also affects UI elements. In practice this is usually still playable, but it is not the same as replacing Unreal's internal tonemapper before UI composition.
+If you experience too much exposed image please turn back LocalExposure "show LocalExposure" command or change a bit game settings, you can also play with curves itself in reshade ui.
 
 ## Troubleshooting
 
