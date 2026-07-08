@@ -8,7 +8,6 @@ local RETRY_COUNT = 10
 
 local Commands = {
     { command = "show ToneCurve", done = false },
-    { command = "show LocalExposure", done = false },
 }
 
 local EngineCache = CreateInvalidObject()
@@ -188,4 +187,4 @@ ExecuteInGameThreadWithDelay(INITIAL_DELAY_MS, function()
     ApplyOnce(1)
 end)
 
-Log("Loaded. Will run show ToneCurve and show LocalExposure once when the viewport is ready.")
+Log("Loaded. Will run show ToneCurve once when the viewport is ready.")
